@@ -1,0 +1,6 @@
+npx express-generator --git ./
+npm install nodemon
+npx eslint --init
+npm install dotenv
+npm install mongodb mongoose
+npm install jsonwebtoken bcryptjs
