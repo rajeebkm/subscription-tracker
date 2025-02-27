@@ -1,4 +1,5 @@
 import mongoose from 'mongoose';
+import { DATABASE_NAME } from '../config/env.js';
 
 const userSchema = new mongoose.Schema({
     name: { type: String, required: [true, 'Use Name is required'], trim: true, minlength: [3, 'Use Name must be at least 3 characters long'], maxlength: [50, 'Use Name must be less than 50 characters long'] },
