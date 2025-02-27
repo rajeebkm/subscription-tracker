@@ -1,6 +1,4 @@
 # Subscription Tracker
 
-Ref Link: https://www.youtube.com/watch?v=rOpEN1JDaD0
-API Testing Tool: https://httpie.io/app
-
-##
+- Ref Link: https://www.youtube.com/watch?v=rOpEN1JDaD0
+- API Testing Tool: https://httpie.io/app
