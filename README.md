@@ -5,4 +5,5 @@
 - Workflow
     ![image](./public/images/workflow.png)
 - Upstash - https://upstash.com/
+- NodeMailer - https://www.nodemailer.com/  
 - Ref Link: https://www.youtube.com/watch?v=rOpEN1JDaD0

@@ -9,3 +9,14 @@ npm install @upstash/workflow
 npm install dayjs
 npm install nodemailer
 npx @upstash/qstash-cli dev -> For local development
+
+> deploy and hosting
+
+apt update && apt upgrade -y
+apt install nodejs (To check node version: node -v)
+apt install npm (To check npm version: npm -v)
+npm install -g pm2
+apt install git -y
+git clone https://github.com/yourusername/your-repo.git
+cd your-repo
+npm install
